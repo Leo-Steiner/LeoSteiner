@@ -1,4 +1,4 @@
-# LeoSteinerPortfoliio
+# LeoSteiner
 <h1>Hi, I'm Leo! <br/><a>Entry-level Cybersecurity Analyst</a></h1>
 
 <h2>I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. </h2>
