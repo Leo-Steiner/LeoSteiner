@@ -1,9 +1,20 @@
 # LeoSteiner
-<h1>Hi, I'm Leo! <br/><a>Entry-level Cybersecurity Analyst</a></h1>
+<h1>Leo Steiner<br/><a>Cybersecurity professional</a></h1>
 
 <h2>I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. </h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> about me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+
+
+
+<h2>skills</h2>
+
+
+
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -20,11 +31,5 @@
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
+<h2> 🤳 Certifications</h2>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
-
-<h2> 🤳 Connect with me:</h2>
